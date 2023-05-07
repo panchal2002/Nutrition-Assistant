@@ -126,7 +126,7 @@ def run():
             cal = fetch_calories(result)
             pro = fetch_protein(result)
             carbs = fetch_carbs(result)
-            fat = fetch_carbs(result)
+            fat = fetch_fat(result)
             cholesterol = fetch_chol(result)
 
             yes = True
