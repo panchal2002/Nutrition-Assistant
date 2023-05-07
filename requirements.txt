@@ -29,7 +29,6 @@ pyopenssl == 23.1.1
 python-ntlm == 1.1.0
 python-ntlm-fixed == 1.0
 python-plugin-sdk == 6.0.1
-requests == 2.27.1
 selector-standardization-beam == 0.4.15
 selector-standardizers == 0.8.3
 setuptools == 59.6.0
