@@ -44,3 +44,4 @@ wheel
 zipp
 requests
 numpy
+beautifulsoup4
