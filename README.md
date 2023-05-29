@@ -22,12 +22,17 @@
     streamlit run Fruits_Vegetable_Classification.py
     ```
 
--   For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-
 ## Screenshots
 
 <img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/Home.jpeg">
 <img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/Reg-Login.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/nutricheck.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/nutricheck2.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/assitant.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/assitant2.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/bmi.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/wg.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/wl.jpeg">
 
 ## Just follow☝️ me and Star⭐ my repository
 
