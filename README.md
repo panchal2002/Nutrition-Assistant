@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/Home.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/Home.jpeg">
 <img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/Reg-Login.jpeg">
 
 ## Just follow☝️ me and Star⭐ my repository
