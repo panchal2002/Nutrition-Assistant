@@ -13,9 +13,9 @@
     pip install -r requirements.txt
     ```
 
--   `Fruits_Vegetable_Classification.py` is the main Python file of Streamlit Web-Application.
+-   `1_🏠_Home.py` is the main Python file of Streamlit Web-Application.
 -   `Fruit_Veg_Classification_Mobilenet.ipynb` is the Notebook file of the Training
--   Dataset that I have used is [Fruit and Vegetable Image Recognition](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition).
+-   Dataset that we have used is [Fruit and Vegetable Image Recognition](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition).
 -   To run app, write following command in CMD. or use any IDE.
 
     ```
@@ -33,9 +33,3 @@
 <img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/bmi.jpeg">
 <img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/wg.jpeg">
 <img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/wl.jpeg">
-
-## Just follow☝️ me and Star⭐ my repository
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
