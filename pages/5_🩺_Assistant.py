@@ -32,7 +32,6 @@ with st.container():
     # Define a dictionary of URLs for different diseases
 urls = {
     "None": "",
-    "diabetes": "https://www.healthline.com/nutrition/16-best-foods-for-diabetics",
     "heart disease": "https://www.healthline.com/nutrition/heart-healthy-foods",
     "obesity": "https://www.healthline.com/nutrition/12-fat-burning-foods",
     "hypertension": "https://www.healthline.com/nutrition/foods-high-blood-pressure",
