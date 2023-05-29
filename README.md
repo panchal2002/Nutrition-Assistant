@@ -25,14 +25,14 @@
 ## Screenshots
 
 <img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/Home.jpeg">
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/Reg-Login.jpeg">
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/nutricheck.jpeg">
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/nutricheck2.jpeg">
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/assitant.jpeg">
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/assitant2.jpeg">
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/bmi.jpeg">
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/wg.jpeg">
-<img src="https://github.com/panchal2002/Nutrition-Assistant/Screenshots/wl.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/Reg-Login.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/nutricheck.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/nutricheck2.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/assitant.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/assitant2.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/bmi.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/wg.jpeg">
+<img src="https://github.com/panchal2002/Nutrition-Assistant/blob/main/Screenshots/wl.jpeg">
 
 ## Just follow☝️ me and Star⭐ my repository
 
